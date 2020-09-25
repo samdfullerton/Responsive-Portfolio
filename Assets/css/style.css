@@ -1,6 +1,16 @@
 .h1-about {
     color: darksalmon;
     background: dimgrey;
-}.container {
-    color: goldenrod;
+}
+.card {
+    color: rgb(81, 81, 109);
+    margin: 1%;
+    background: rgba(185, 184, 187, 0.452);
+}
+.card-text {
+    color: darksalmon;
+}
+.imagerysize {
+    width: 600px;
+    height: 400px;
 }
