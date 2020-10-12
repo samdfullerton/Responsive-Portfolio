@@ -17,3 +17,12 @@
 .card-body {
     color: lightcoral;
 }
+.container {
+    background-color: bisque;
+}
+.card {
+    width: 200px;
+}
+.main {
+    background: powderblue;
+}
